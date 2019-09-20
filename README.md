@@ -1,5 +1,5 @@
 # NBU-SOID
-This is an introduction of stereoscopic omnidirectional image subjective database (NBU-SOID), and it will be publicly available in the future for the academic demands. Please contact Gangyi Jiang (jgyvciplab@126.com) to get the request for the NBU-SOID database and the corresponding password!
+This is an introduction of stereoscopic omnidirectional image subjective database (NBU-SOID), and it will be publicly available in the future for the academic demands. Please contact Gangyi Jiang (jgyvciplab@126.com) to get the request of the NBU-SOID database and the corresponding password!
 
 -----------COPYRIGHT NOTICE STARTS WITH THIS LINE------------
 Copyright (c) 2019 The Ningbo University
