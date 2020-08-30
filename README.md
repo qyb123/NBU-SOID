@@ -14,6 +14,7 @@ Multi-media Signal Processing Laboratory at the Ningbo University,
 is acknowledged in any publication that reports research using this database.
 The database is to be cited in the bibliography as:
 
-Y. Qi, G. Jiang, M. Yu, Y. Zhang, and Y.-S. Ho,"Viewport Perception-Based Blind Stereoscopic Omnidirectional Image Quality Assessment", in review. 
+Y. Qi, G. Jiang, M. Yu, Y. Zhang, and Y.-S. Ho,"Viewport Perception based Blind Stereoscopic Omnidirectional Image Quality Assessment", 
+IEEE Transactions on Circuits and Systems for Video Technology, in review. 
  
 Please refer to the above papers for more details.
