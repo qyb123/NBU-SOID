@@ -1,6 +1,6 @@
 # NBU-SOID
 -----------COPYRIGHT NOTICE STARTS WITH THIS LINE------------
-Copyright (c) 2019 The Ningbo University
+Copyright (c) 2020 The Ningbo University
 All rights reserved.
 
 Permission is hereby granted, without written agreement and without
