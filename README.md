@@ -14,9 +14,9 @@ is acknowledged in any publication that reports research using this database.
 The database is to be cited in the bibliography as:
 
 Y. Qi, G. Jiang, M. Yu, Y. Zhang, and Y.-S. Ho,"Viewport Perception based Blind Stereoscopic Omnidirectional Image Quality Assessment",
- IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2020.3043349.
+IEEE Transactions on Circuits and Systems for Video Technology, vol. 31, no. 10, pp. 3926-3941, Oct. 2021.
  
-You can change this program as you like and use it anywhere, but please refer to its original source (cite our paper and our web page at https://pan.baidu.com/s/1UKjtZ6XRJ46AF9Hf7vQpOw). The corresponding passcord for database extraction and package decompressing are 
+You can change this program as you like and use it anywhere, but please refer to its original source (cite our paper and our web page at Baidu Cloud, i.e., https://pan.baidu.com/s/1UKjtZ6XRJ46AF9Hf7vQpOw). The corresponding passcord for database extraction and package decompressing are 
 "yr64" and "NBU-SOID2019", respectively.
 
 -----------COPYRIGHT NOTICE ENDS WITH THIS LINE------------
